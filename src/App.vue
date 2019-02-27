@@ -2,7 +2,8 @@
   <div id="app">
     <router-view/>
     <div>你的jhjj</div>
-    <div>asd </div>
+    <div>asd de344</div>
+     <div>asd </div>
     <app-header></app-header>
     <users></users>
     <app-footer></app-footer>
